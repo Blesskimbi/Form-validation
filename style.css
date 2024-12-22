@@ -1,0 +1,26 @@
+   label{
+    align-items: justify;
+    font-weight: bold;
+   }
+   .input-group{
+    margin-top: 5px;
+    padding: 10px;
+    text-align:justify;
+   }
+   input{
+    padding: 3px;
+    text-align:justify;
+   }
+   .container{
+    border: 2px solid black;
+    width: 50%;
+   }
+   .btn{
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+   }
+   .in{
+    text-align: justify;
+   }
+  
